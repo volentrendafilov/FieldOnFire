@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldOnFire", "FieldOnFire\FieldOnFire.csproj", "{C162F318-4EB9-429F-97A6-1EE0800C7052}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C162F318-4EB9-429F-97A6-1EE0800C7052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C162F318-4EB9-429F-97A6-1EE0800C7052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C162F318-4EB9-429F-97A6-1EE0800C7052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C162F318-4EB9-429F-97A6-1EE0800C7052}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4508621E-8FE3-4DE1-AE78-8D49D94AC640}
+	EndGlobalSection
+EndGlobal

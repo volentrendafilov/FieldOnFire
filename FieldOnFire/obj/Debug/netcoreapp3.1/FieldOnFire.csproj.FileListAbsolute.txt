@@ -1,0 +1,13 @@
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\bin\Debug\netcoreapp3.1\FieldOnFire.exe
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\bin\Debug\netcoreapp3.1\FieldOnFire.deps.json
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\bin\Debug\netcoreapp3.1\FieldOnFire.runtimeconfig.json
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\bin\Debug\netcoreapp3.1\FieldOnFire.runtimeconfig.dev.json
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\bin\Debug\netcoreapp3.1\FieldOnFire.dll
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\bin\Debug\netcoreapp3.1\FieldOnFire.pdb
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\obj\Debug\netcoreapp3.1\FieldOnFire.csproj.AssemblyReference.cache
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\obj\Debug\netcoreapp3.1\FieldOnFire.AssemblyInfoInputs.cache
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\obj\Debug\netcoreapp3.1\FieldOnFire.AssemblyInfo.cs
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\obj\Debug\netcoreapp3.1\FieldOnFire.csproj.CoreCompileInputs.cache
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\obj\Debug\netcoreapp3.1\FieldOnFire.dll
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\obj\Debug\netcoreapp3.1\FieldOnFire.pdb
+C:\Users\volen\source\repos\FieldOnFire\FieldOnFire\obj\Debug\netcoreapp3.1\FieldOnFire.genruntimeconfig.cache
